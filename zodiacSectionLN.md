@@ -46,4 +46,5 @@ else:
     print("\nYour Chinese Zodiac Sign is :", zodiacSign)
 ```
 
-![Program output screenshot](images/zodiac_screenshot1.png)
+<img width="466" height="178" alt="Screenshot 2026-08-18 150812" src="https://github.com/user-attachments/assets/0a319b27-9b75-4c30-81d0-df325639ac56" />
+
