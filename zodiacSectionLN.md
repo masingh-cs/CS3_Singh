@@ -13,6 +13,7 @@
    vii. Horse (马 / Mǎ)
    viii. Goat (羊 / Yáng)
    ix. Monkey (猴 / Hóu)
+
    x. Rooster (鸡 / Jī)
    xi. Dog (狗 / Gǒu)
    xii. Pig (猪 / Zhū)
