@@ -4,18 +4,18 @@
 2. Validates the user input so it is not earlier than 1900.
 3. If the user enters an invalid year, displays an appropriate message and stops the program.
 4. Otherwise, determines the Chinese zodiac sign based on the year of birth, starting from 1900. A zodiac sign recurs every 12 years, following this order:
-   i. Rat (鼠 / Shǔ)
-   ii. Ox (牛 / Niú)
-   iii. Tiger (虎 / Hǔ)
-   iv. Rabbit (兔 / Tù)
-   v. Dragon (龙 / Lóng)
-   vi. Snake (蛇 / Shé)
-   vii. Horse (马 / Mǎ)
-   viii. Goat (羊 / Yáng)
-   ix. Monkey (猴 / Hóu)
-   x. Rooster (鸡 / Jī)
-   xi. Dog (狗 / Gǒu)
-   xii. Pig (猪 / Zhū)
+      i. Rat (鼠 / Shǔ)
+      ii. Ox (牛 / Niú)
+      iii. Tiger (虎 / Hǔ)
+      iv. Rabbit (兔 / Tù)
+      v. Dragon (龙 / Lóng)
+      vi. Snake (蛇 / Shé)
+      vii. Horse (马 / Mǎ)
+      viii. Goat (羊 / Yáng)
+      ix. Monkey (猴 / Hóu)
+      x. Rooster (鸡 / Jī)
+      xi. Dog (狗 / Gǒu)
+      xii. Pig (猪 / Zhū)
 
 5. Only the year of birth is considered (no month/day needed).
 
